@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+backend/data/*.csv
+backend/artifacts/*.joblib
+backend/artifacts/*.json
+.pytest_cache/
+.DS_Store
